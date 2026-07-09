@@ -1,11 +1,11 @@
 {
-  "version": "2.0.1",
-  "notes": "[prod] Update versi 2.0.1",
-  "pub_date": "2026-07-09T06:39:06Z",
+  "version": "2.0.2",
+  "notes": "[prod] Update versi 2.0.2",
+  "pub_date": "2026-07-09T07:14:26Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRHBITVVUWU5IVkl1ZWQ4U242YTE1bUdMUmRKcG9QcENKQ0FvMk8xQzNUNTJXQ2trREluTy94SHAvN0FhYnlGTkhadFdtK3RMKzZ1ZFFDQ2NFTmtnZS9JbkRWMndlWEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTc5MTQ2CWZpbGU6TUtJT1MgQXBwc18yLjAuMV94NjQtc2V0dXAuZXhlCnEzQXNPY1UxcGp0OSt1TVFhNUJWMExxVGQ2eGVkUFlFaGZYeTZNYXZHUEhrclhzenNWTWc1MExyaFNqdnFudjFKRzdySXR5aTBVaFJOdGV5Um43YUFBPT0K",
-      "url": "https://github.com/isjk-posind/mkios-releases/releases/download/v2.0.1/MKIOS.Apps_2.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRHBITVVUWU5IVklMTGsvUkMxaURQRU5UK2lyYkR1TnhGWmFsS3JMWW1RSmJWY012ZGxVSUswbFlldmRmcDdPdGZteWxiL2hPL1FqdVpOWHVmTVJseUpwYm1Mb0VlaEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTgxMjY2CWZpbGU6TUtJT1MgQXBwc18yLjAuMl94NjQtc2V0dXAuZXhlCnN1cWppOC9DNzQ5MDJXU3A5dUJLSkk3bmZQejBaWTA0QnNCMXJBOFJxcVhURndjMXh4dG9uczVVbGdxZ1dMRlRpa1hRMUJZdVFLVTJ4N3F3Q3NIRERBPT0K",
+      "url": "https://github.com/isjk-posind/mkios-releases/releases/download/v2.0.2/MKIOS.Apps_2.0.2_x64-setup.exe"
     }
   }
 }
