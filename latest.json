@@ -1,0 +1,11 @@
+{
+  "version": "2.0.4",
+  "notes": "[prod] Update versi 2.0.4",
+  "pub_date": "2026-07-09T08:19:53Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRHBITVVUWU5IVk1pUU5vcXNwNzFoMDNDWlkyNnBaTTlxS0hQNE1QazZOQ20rSTY2cktTN2JDYjdSWGJ3TDJrNkY2dlVTeWFqWGV2YWtUYjBZMmIzRTMrOURKVGpSTEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTg1MTgzCWZpbGU6TUtJT1MgQXBwc18yLjAuNF94NjQtc2V0dXAuZXhlCkI1OS90NkpScW40WVB4Z2R4OXJXbUFjclhiSGN3eTQ3OEd1VDArZko4REFjRXdGTDFsQTlRK1B6aDdHbFloZlE2MlJHVXhxZmd5UENsOGJ5emh3TUNRPT0K",
+      "url": "https://github.com/isjk-posind/mkios-releases/releases/download/v2.0.4/MKIOS.Apps_2.0.4_x64-setup.exe"
+    }
+  }
+}
